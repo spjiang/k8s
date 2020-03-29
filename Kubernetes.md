@@ -7,18 +7,26 @@
 为什么需要 K8S 的诞生
 
 - 公有云类型说明
+	
 - 资源管理器对比
 - K8S 其优势
 
 ### K8S 组件说明
 
 - Borg 组件说明
+
+  ![image-20200329094431516](/Users/jiangshengping/Library/Application Support/typora-user-images/image-20200329094431516.png)
+
 - K8S 结构说明
 
-	- 网络结构
-	- 组件结构
+  - 网络结构
+  - 组件结构
 
 ### K8S 中的一些关键字解释
+
+#### 
+
+
 
 ## 基础概念
 
