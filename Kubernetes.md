@@ -15,7 +15,7 @@
 
 - Borg 组件说明
 
-  ![image-20200329094431516](/Users/jiangshengping/Library/Application Support/typora-user-images/image-20200329094431516.png)
+  ![image-20200329094431516](./img/image-20200329094431516.png)
 
 - K8S 结构说明
 
